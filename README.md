@@ -1,5 +1,5 @@
 
-# 🔐 Encryption Algorithms Collection - Python
+# 🔐CryptoNada - Encryption Algorithms Collection - Python
 
 This Python program is a comprehensive encryption tool that supports **15 classical encryption algorithms**, allowing users to **encrypt and decrypt** messages through an interactive command-line interface.
 
@@ -112,8 +112,7 @@ requirements.txt        # List of dependencies
 
 ### 👩‍💻 Author
 
-- **Nada Khaled** – Software Engineer & Security Enthusiast  
-  Founder of [شركة العقرب](https://github.com/username) – Empowering youth through tech
+- **Nada Khaled** – Software Engineer & CEO And Founder Al-Eaqrab
 
 ### 🌐 License
 
